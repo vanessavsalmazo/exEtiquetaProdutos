@@ -8,6 +8,5 @@ Foram utilizados os conceitos abaixo:
 - Encapsulamento
 - Herança
 - Polimorfismo
-- Sobrecarga
 - Lista
 - Datas
